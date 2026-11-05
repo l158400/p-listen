@@ -1,0 +1,17 @@
+{
+  "name": "P-Listen 四六级听力练习",
+  "short_name": "P-Listen",
+  "description": "历年四六级英语听力真题练习，支持0.5倍慢速精听、原文对照、错题复习",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f4fa",
+  "theme_color": "#1a237e",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
